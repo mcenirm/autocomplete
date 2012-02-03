@@ -2,6 +2,7 @@
 // @name           autocomplete
 // @namespace      autocomplete
 // @description    Remove autocomplete attributes
+// @match          <all_urls>
 // ==/UserScript==
 
 var allElements, thisElement;
